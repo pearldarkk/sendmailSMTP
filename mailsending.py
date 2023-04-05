@@ -64,7 +64,7 @@ sender_pass = "password"
 
 # Setup msg container
 msg = MIMEMultipart()
-msg['Subject']  = "[ULIS] Thư mời tham dự Ngày hội việc làm ULIS JOBFAIR 2021 - ĐHNN ĐHQGHN"
+msg['Subject']  = "Email subject"
 msg['From'] = sender
 
 # list of recipients
