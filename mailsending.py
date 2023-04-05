@@ -59,8 +59,8 @@ def send_mail(name, email):
 
 
 # sender
-sender = "fjlc.jobfair@gmail.com"
-sender_pass = "khoanhat123"
+sender = "sender@gmail.com"
+sender_pass = "password"
 
 # Setup msg container
 msg = MIMEMultipart()
